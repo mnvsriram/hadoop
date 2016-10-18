@@ -1,10 +1,7 @@
-E01,50000
-E02,50000
-E03,45000
-E04,45000
-E05,50000
-E06,45000
-E07,50000
-E08,10000
-E09,10000
-E10,10000
+Hello this is HadoopExam.com 
+This is QuickTechie.com
+Apache Spark Training
+This is Spark Learning Session
+Spark is faster than MapReduce
+
+Hello, is, this, the
