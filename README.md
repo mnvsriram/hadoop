@@ -1,12 +1,1 @@
-Department,Designation,costToCompany,State
-Sales,Trainee,12000,UP
-Sales,Lead,32000,AP
-Sales,Lead,32000,LA
-Sales,Lead,32000,TN
-Sales,Lead,32000,AP
-Sales,Lead,32000,TN 
-Sales,Lead,32000,LA
-Sales,Lead,32000,LA
-Marketing,Associate,18000,TN
-Marketing,Associate,18000,TN
-HR,Manager,58000,TN
+List( ("Deeapak" , "male", 4000), ("Deepak" , "male", 2000), ("Deepika" , "female", 2000),("Deepak" , "female", 2000), ("Deepak" , "male", 1000) , ("Neeta" , "female", 2000))
