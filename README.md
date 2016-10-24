@@ -1,4 +1,6 @@
-
-ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.avro.AvroSerDe'
-STORED AS INPUTFORMAT 'org.apache.hadoop.hive.ql.io.avro.AvroContainerInputFormat'
-OUTPUTFORMAT 'org.apache.hadoop.hive.ql.io.avro.AvroContainerOutputFormat'
+{"first_name":"Ankit", "last_name":"Jain"}
+{"first_name":"Amir", "last_name":"Khan"}
+{"first_name":"Rajesh", "last_name":"Khanna"}
+{"first_name":"Priynka", "last_name":"Chopra"}
+{"first_name":"Kareena", "last_name":"Kapoor"}
+{"first_name":"Lokesh", "last_name":"Yadav"}
